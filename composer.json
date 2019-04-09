@@ -1,0 +1,13 @@
+{
+    "name": "xavier/twig",
+    "description": "Quete twig",
+    "authors": [
+        {
+            "name": "xavier",
+            "email": "x.crochet@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
